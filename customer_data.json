@@ -1,0 +1,143 @@
+[
+    {
+        "fullname": "Kavindu theekshana",
+        "email": "kavindu001@gmail.com",
+        "contact": "07686323596",
+        "nic": "200420201235",
+        "address": "t/9 university of jayawardanapura",
+        "emergency_contact": "0762325588",
+        "gender": "Female",
+        "password": "1111111"
+    },
+    {
+        "fullname": "pahan pramodya",
+        "email": "zuzpahan@gmail.com",
+        "contact": "0760478361",
+        "nic": "200403813342",
+        "address": "no.57,Maliyadewapura,Thambuththegama.",
+        "emergency_contact": "0760478361",
+        "gender": "Male",
+        "password": "Pahan@2004"
+    },
+    {
+        "fullname": "KAVINDU",
+        "email": "kavindu008@gmail.com",
+        "contact": "0753894521",
+        "nic": "200419562485",
+        "address": "-",
+        "province": "Eastern",
+        "emergency_contact": "075896412",
+        "gender": "Male",
+        "password": "1111111"
+    },
+    {
+        "fullname": "senuja",
+        "email": "senuja@gmail.com",
+        "contact": "01212111",
+        "nic": "20101000000",
+        "address": "6565",
+        "province": "Western",
+        "emergency_contact": "01212222222",
+        "gender": "Female",
+        "password": "111111"
+    },
+    {
+        "fullname": "kusal mendis",
+        "email": "kusal001@gmail.com",
+        "contact": "0754123692",
+        "nic": "200419755284",
+        "address": "university of sri jayawardenepura",
+        "province": "Western",
+        "emergency_contact": "0753839400",
+        "gender": "Male",
+        "password": "111111"
+    },
+    {
+        "fullname": "wanindu hasaranga",
+        "email": "wanindu@001@gmail.com",
+        "contact": "0756234587",
+        "nic": "200418755698",
+        "address": "university of sri jayawardenepura",
+        "province": "Northern",
+        "emergency_contact": "0748529658",
+        "gender": "Male",
+        "password": "111111"
+    },
+    {
+        "fullname": "lasith malinga",
+        "email": "lasith@001@gmail.com",
+        "contact": "0785214578",
+        "nic": "200415789325",
+        "address": "university of sri jayawardenepura",
+        "province": "Southern",
+        "emergency_contact": "0758423652",
+        "gender": "Male",
+        "password": "111111"
+    },
+    {
+        "fullname": "pathum nissanka",
+        "email": "pathum@001gmail.com",
+        "contact": "0752146555",
+        "nic": "200415988542",
+        "address": "university of sri jayawardenepura",
+        "province": "Central",
+        "emergency_contact": "0754785888",
+        "gender": "Male",
+        "password": "111111"
+    },
+    {
+        "fullname": "dasun shanaka",
+        "email": "dasun001@gmail.com",
+        "contact": "0752146988",
+        "nic": "200417588965",
+        "address": "university of sri jayawardenepura",
+        "province": "Uva",
+        "emergency_contact": "0756542111",
+        "gender": "Male",
+        "password": "111111"
+    },
+    {
+        "fullname": "maheesh theekshana",
+        "email": "maheesh001@gmail.com",
+        "contact": "0784569514",
+        "nic": "200145698745",
+        "address": "university of japura",
+        "province": "Southern",
+        "emergency_contact": "0112356478",
+        "gender": "Male",
+        "password": "111111"
+    },
+    {
+        "fullname": "matheesha pathirana",
+        "email": "mathee001@gmail.com",
+        "contact": "07623145897",
+        "nic": "200145698752",
+        "address": "unoiversity of japura",
+        "province": "Central",
+        "emergency_contact": "0112365479",
+        "gender": "Male",
+        "password": "111111"
+    },
+    {
+        "fullname": "nuwan thushara",
+        "email": "nuwa001@gmail.com",
+        "contact": "0214578963",
+        "nic": "201457896325",
+        "address": "university of japura",
+        "province": "North Central",
+        "emergency_contact": "01123457865",
+        "gender": "Male",
+        "password": "111111"
+    },
+    {
+        "fullname": "sanath jayasuriya",
+        "email": "sanath001@gmail.com",
+        "contact": "0753894521",
+        "nic": "200420201232",
+        "address": "university of jayawardanapura",
+        "province": "Central",
+        "emergency_contact": "0768632355",
+        "gender": "Male",
+        "password": "111111"
+    }
+]
